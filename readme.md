@@ -2,6 +2,8 @@
 
 A simple bi-directional map implementation in Go
 
+API docs: https://godoc.org/github.com/diogobeda/bimap
+
 ## Usage
 
 ```go
